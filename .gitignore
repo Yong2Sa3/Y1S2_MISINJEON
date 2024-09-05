@@ -77,7 +77,8 @@ DerivedDataCache/*
 
 Content/Assets_Per_Level
 Content/Character
-
+Content/StarterContent/**
+Content/BP/ThirdPerson/Characters/**
 # Except for these files and directories
 !.gitignore
 !.ignore
